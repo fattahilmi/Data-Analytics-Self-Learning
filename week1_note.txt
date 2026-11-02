@@ -1,0 +1,2 @@
+# Day 4 notes (XLOOKUP, EXCEL)
+xlookup is a left join
